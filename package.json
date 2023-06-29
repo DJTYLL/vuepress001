@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "vuepress第一次创建",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "element-ui": "^2.15.13"
+  },
   "devDependencies": {},
   "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -8,10 +8,10 @@ title : IDEA绑定Git
 ## macIDEA绑定Git
 ### 一、下载git
 打开git官网地址：https://git-scm.com/进行下载，如下图界面：
-<img src="/assets/image/document/ideabindgit/img.png" alt="foo">
+<img :src="$withBase('/assets/image/document/ideabindgit/img.png')" alt="foo">
 ```
     或安装brew 在使用 brew 安装 git   
-    brew地址 ： https://brew.sh/index_zh-cn
+    brew地址 ： https://brew.sh/index_zh-cn 
 ```
 
 ### 二、下载完成后
@@ -29,15 +29,15 @@ title : IDEA绑定Git
 
 第四步，到git仓库，添加秘钥，
 
-<img src="/assets/image/document/ideabindgit/img_1.png" alt="foo">
+<img :src="$withBase('/assets/image/document/ideabindgit/img_1.png')" alt="foo">
 
 <br/>
 
-<img src="/assets/image/document/ideabindgit/img_2.png" alt="foo">
+<img :src="$withBase('/assets/image/document/ideabindgit/img_2.png')" alt="foo">
 
-<img src="/assets/image/document/ideabindgit/img_3.png" alt="foo">
+<img :src="$withBase('/assets/image/document/ideabindgit/img_3.png')" alt="foo">
 
-<img src="/assets/image/document/ideabindgit/img_4.png" alt="foo">
+<img :src="$withBase('/assets/image/document/ideabindgit/img_4.png')" alt="foo">
 
 ### idea
 第一步 ： 首先查找mac中git安装的地址,在终端中输入
@@ -45,7 +45,7 @@ title : IDEA绑定Git
    $  whereis git  
 ```
 第二步将找到的git地址填入idea中
-<img src="/assets/image/document/ideabindgit/img_5.png" alt="foo">
-<img src="/assets/image/document/ideabindgit/img_6.png" alt="foo">
+<img :src="$withBase('/assets/image/document/ideabindgit/img_5.png')" alt="foo">
+<img :src="$withBase('/assets/image/document/ideabindgit/img_6.png')" alt="foo">
 
-<img src="/assets/image/document/ideabindgit/img_7.png" alt="foo">
+<img :src="$withBase('/assets/image/document/ideabindgit/img_7.png')" alt="foo">

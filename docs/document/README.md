@@ -10,3 +10,5 @@ title: 文档
 #### [SpringBoot3学习文档](./springboot3)
 #### [常用下载](./down)
 #### [IDEA下载maven插件太慢](./ideaDownMavenToFlow)
+#### [idea 包名在一行的问题解决办法](./ideaPackageNameOnOneLine)
+#### [天然气备份](./kunluntianranqi)

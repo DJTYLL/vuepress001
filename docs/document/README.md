@@ -12,3 +12,4 @@ title: 文档
 #### [IDEA下载maven插件太慢](./ideaDownMavenToFlow)
 #### [idea 包名在一行的问题解决办法](./ideaPackageNameOnOneLine)
 #### [天然气备份](./kunluntianranqi)
+#### [Linux设置开机自动连接网络](./linuxStartConnectToInternet)
